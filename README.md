@@ -54,8 +54,8 @@ SpamShield AI is an intelligent spam detection system that leverages advanced ma
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Poornachandra-dh/SPAM_HAM.git
-cd SPAM_HAM
+git clone https://https://github.com/varshith245/SpamShield-AI.git
+cd  D:\spam\SPAM_HAM
 ```
 
 ### Step 2: Install Dependencies
